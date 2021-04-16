@@ -1,0 +1,15 @@
+Consta de una serie de números naturales que se suman de a 2, a partir de 0 y 1. 
+Básicamente, la sucesión de Fibonacci se realiza sumando siempre los últimos 2 números 
+(Todos los números presentes en la sucesión se llaman números de Fibonacci) de la siguiente manera:
+
+0,1,1,2,3,5,8,13,21,34...
+
+O sea: 
+
+(0+1=1 / 1+1=2 / 1+2=3 / 2+3=5 / 3+5=8 / 5+8=13 / 8+13=21 / 13+21=34...)
+
+Así sucesivamente, hasta el infinito. Por regla, la sucesión de Fibonacci se escribe así:
+
+n = n-1 + n-2.
+
+Realiza una sucesión Fibonacci utilizando la Recursividad.
